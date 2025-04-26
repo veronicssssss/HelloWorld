@@ -1,3 +1,4 @@
+//hiii🙏🏼
 Код программы:
 #include <iostream>
 #include <stack>
